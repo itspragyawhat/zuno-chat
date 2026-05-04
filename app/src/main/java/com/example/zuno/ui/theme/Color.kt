@@ -2,10 +2,11 @@ package com.example.zuno.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val BaseBlue = Color(0xFF00072D)
+val SoftCream = Color(0xFFF4F1DE)
+val SoftPink = Color(0xFFFF91A4)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val WhiteText = Color(0xFFFFFFFF)
+val BlackText = Color(0xFF111111)
+val LightGrayLine = Color(0xFFE6E6E6)
+val HintGray = Color(0xFF7A7A7A)
